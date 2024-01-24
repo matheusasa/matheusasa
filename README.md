@@ -26,9 +26,9 @@ I'm actively studying and expanding my skills in the following areas:
 - React
 - React Native
 - TypeScript
-- Utilizing APIs
+- APIs
+- APIs RESTFULL
 - Building CRUD systems with SQL
-- ... (feel free to add more)
 
 ## Contact
 
