@@ -9,8 +9,6 @@ Hello! 👋 I'm Matheus, a programming enthusiast currently focused on web devel
 - JavaScript
 - jQuery
 - Next.js
-- React
-- React Native
 - TypeScript
 - SQL (working with APIs and CRUD systems)
 
