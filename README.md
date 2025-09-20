@@ -1,36 +1,34 @@
-# About Me
+# Olá, eu sou o Matheus Alves! 👋
 
-Hello! 👋 I'm Matheus, a programming enthusiast currently focused on web development. I primarily work with HTML, CSS, JavaScript, and jQuery. Currently, I am interning at Totvs, where I am honing my skills as a developer.
+Analista de Sistemas na TOTVS e entusiasta do universo de dados, atualmente cursando um **MBA Executivo em Engenharia de Dados**. Sou apaixonado por construir soluções que transformam dados brutos em insights valiosos.
 
-## Technologies I'm Currently Working With
+Minha jornada profissional tem sido focada no desenvolvimento e na automação de **pipelines de dados (ETL)**, otimizando a coleta, transformação e centralização de informações para apoiar a tomada de decisões estratégicas.
 
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- Next.js
-- TypeScript
-- SQL (working with APIs and CRUD systems)
+---
 
-## Professional Experience
+### 🚀 **Tecnologias e Ferramentas**
 
-I am currently interning at Totvs, where I have the opportunity to apply my knowledge and continuously learn in the practical world of development.
+* **Linguagens:** Python, SQL, JavaScript
+* **Engenharia de Dados:** Desenvolvimento de Pipelines (ETL), Qualidade e Integridade de Dados
+* **Cloud:** GCP (Google Cloud Platform)
+* **Bases de Dados & APIs:** APIs REST, JSON
+* **Controle de Versão:** Git & GitHub
 
-## Learning
+---
 
-I'm actively studying and expanding my skills in the following areas:
+### 📚 **O que estou estudando**
 
-- Next.js
-- React
-- React Native
-- TypeScript
-- APIs
-- APIs RESTFULL
-- Building CRUD systems with SQL
+Atualmente, estou aprofundando meus conhecimentos para me tornar um Engenheiro de Dados cada vez mais completo, com foco em:
 
-## Contact
+* **Serviços de Cloud para Dados:** Aprofundando em serviços do GCP como Cloud Storage, Dataflow e BigQuery.
+* **Orquestração de Dados:** Estudando ferramentas para automatizar e gerenciar pipelines complexos.
+* **Arquiteturas de Dados:** Conceitos de Data Lake, Data Warehouse e plataformas de Big Data.
 
-If you'd like to discuss collaborations, development opportunities, or just chat about code, feel free to get in touch.
+---
 
-- Email: matheusdaws66@gmail.com
-- LinkedIn: [Matheus Alves Silva](https://www.linkedin.com/in/matheusalvessil/)
+### 📫 **Como me encontrar**
+
+Vamos nos conectar! Se você quiser discutir sobre tecnologia, dados, ou oportunidades de colaboração, me encontre aqui:
+
+* **Email:** matheusdaws66@gmail.com
+* **LinkedIn:** [Matheus Alves Silva](https://www.linkedin.com/in/matheusalvessil/)
